@@ -1,2 +1,3 @@
 # hello_world
-Frist step
+
+yep, maybe I will learn C# in here~
