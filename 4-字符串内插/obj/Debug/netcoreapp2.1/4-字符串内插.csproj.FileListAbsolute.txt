@@ -1,0 +1,11 @@
+C:\Users\饼干\OneDrive\饼干的代码\Hello World\4-字符串内插\bin\Debug\netcoreapp2.1\4-字符串内插.deps.json
+C:\Users\饼干\OneDrive\饼干的代码\Hello World\4-字符串内插\bin\Debug\netcoreapp2.1\4-字符串内插.runtimeconfig.json
+C:\Users\饼干\OneDrive\饼干的代码\Hello World\4-字符串内插\bin\Debug\netcoreapp2.1\4-字符串内插.runtimeconfig.dev.json
+C:\Users\饼干\OneDrive\饼干的代码\Hello World\4-字符串内插\bin\Debug\netcoreapp2.1\4-字符串内插.dll
+C:\Users\饼干\OneDrive\饼干的代码\Hello World\4-字符串内插\bin\Debug\netcoreapp2.1\4-字符串内插.pdb
+C:\Users\饼干\OneDrive\饼干的代码\Hello World\4-字符串内插\obj\Debug\netcoreapp2.1\4-字符串内插.csprojAssemblyReference.cache
+C:\Users\饼干\OneDrive\饼干的代码\Hello World\4-字符串内插\obj\Debug\netcoreapp2.1\4-字符串内插.csproj.CoreCompileInputs.cache
+C:\Users\饼干\OneDrive\饼干的代码\Hello World\4-字符串内插\obj\Debug\netcoreapp2.1\4-字符串内插.AssemblyInfoInputs.cache
+C:\Users\饼干\OneDrive\饼干的代码\Hello World\4-字符串内插\obj\Debug\netcoreapp2.1\4-字符串内插.AssemblyInfo.cs
+C:\Users\饼干\OneDrive\饼干的代码\Hello World\4-字符串内插\obj\Debug\netcoreapp2.1\4-字符串内插.dll
+C:\Users\饼干\OneDrive\饼干的代码\Hello World\4-字符串内插\obj\Debug\netcoreapp2.1\4-字符串内插.pdb

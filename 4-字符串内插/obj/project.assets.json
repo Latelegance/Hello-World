@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\饼干\\OneDrive\\饼干的代码\\Hello World\\1-C# 初探\\C# 初探.csproj",
-      "projectName": "C# 初探",
-      "projectPath": "c:\\Users\\饼干\\OneDrive\\饼干的代码\\Hello World\\1-C# 初探\\C# 初探.csproj",
+      "projectUniqueName": "C:\\Users\\饼干\\OneDrive\\饼干的代码\\Hello World\\4-字符串内插\\4-字符串内插.csproj",
+      "projectName": "4-字符串内插",
+      "projectPath": "C:\\Users\\饼干\\OneDrive\\饼干的代码\\Hello World\\4-字符串内插\\4-字符串内插.csproj",
       "packagesPath": "C:\\Users\\饼干\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\饼干\\OneDrive\\饼干的代码\\Hello World\\1-C# 初探\\obj\\",
+      "outputPath": "C:\\Users\\饼干\\OneDrive\\饼干的代码\\Hello World\\4-字符串内插\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
