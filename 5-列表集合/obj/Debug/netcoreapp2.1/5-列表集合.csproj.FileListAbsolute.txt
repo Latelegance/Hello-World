@@ -1,0 +1,11 @@
+C:\Users\饼干\OneDrive\饼干的代码\Hello World\5-列表集合\bin\Debug\netcoreapp2.1\5-列表集合.deps.json
+C:\Users\饼干\OneDrive\饼干的代码\Hello World\5-列表集合\bin\Debug\netcoreapp2.1\5-列表集合.runtimeconfig.json
+C:\Users\饼干\OneDrive\饼干的代码\Hello World\5-列表集合\bin\Debug\netcoreapp2.1\5-列表集合.runtimeconfig.dev.json
+C:\Users\饼干\OneDrive\饼干的代码\Hello World\5-列表集合\bin\Debug\netcoreapp2.1\5-列表集合.dll
+C:\Users\饼干\OneDrive\饼干的代码\Hello World\5-列表集合\bin\Debug\netcoreapp2.1\5-列表集合.pdb
+C:\Users\饼干\OneDrive\饼干的代码\Hello World\5-列表集合\obj\Debug\netcoreapp2.1\5-列表集合.csprojAssemblyReference.cache
+C:\Users\饼干\OneDrive\饼干的代码\Hello World\5-列表集合\obj\Debug\netcoreapp2.1\5-列表集合.csproj.CoreCompileInputs.cache
+C:\Users\饼干\OneDrive\饼干的代码\Hello World\5-列表集合\obj\Debug\netcoreapp2.1\5-列表集合.AssemblyInfoInputs.cache
+C:\Users\饼干\OneDrive\饼干的代码\Hello World\5-列表集合\obj\Debug\netcoreapp2.1\5-列表集合.AssemblyInfo.cs
+C:\Users\饼干\OneDrive\饼干的代码\Hello World\5-列表集合\obj\Debug\netcoreapp2.1\5-列表集合.dll
+C:\Users\饼干\OneDrive\饼干的代码\Hello World\5-列表集合\obj\Debug\netcoreapp2.1\5-列表集合.pdb
